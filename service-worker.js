@@ -3,10 +3,12 @@ urlsToCache = [
     './',
    './estilo.css',
     './calculadora.js',
-    './index.html',
-    './manifest.json',
-    './img/icons-192.png',
-    './img/icons-512.png'
+    'favicon_io/android-chrome-192x192.png',
+    'favicon_io/android-chrome-512x512.png',
+    'favicon_io/favicon-32x32.png',
+    'favicon_io/favicon-16x16.png',
+    'favicon_io/favicon.ico'
+
     
 ]
 
